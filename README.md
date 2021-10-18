@@ -15,7 +15,6 @@ The board is formed by 9x9 cells, and the pawn will move on the cells.  The fenc
 The board should be treated as the following picture shows:
 
 ![162-u21-portfolio-project-quorridor-board](https://user-images.githubusercontent.com/230170/127580651-5de99bfd-d7d4-4492-9ef2-a5615f0e8b3b.png)
-
  
 The cell coordinates are expressed in `(x,y)` where `x` is the column number and `y` is the row numberThe board positions start with `(0,0)` and end at `(8,8)`. At the beginning of the game, player 1 places pawn 1 (P1) on the top center of the board and player 2 places pawn 2 (P2) on the bottom center of the board.  The position of P1 and P2 is `(4,0)` and `(4,8)` when the game begins.   
 
