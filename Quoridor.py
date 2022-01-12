@@ -1,5 +1,4 @@
 # Author: Hannah Boehm
-# Date: 08/02/2021
 # Description: A program for a two-player version of Quoridor. The game is played on a board of 9x9 cells.
 #              Each player has 1 pawn and 10 fences. The objective is to move one's pawn to the opposite end
 #              of the board; players can impede their opponent's progress by blocking their path with fences.
